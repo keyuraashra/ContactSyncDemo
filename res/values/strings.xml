@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoSyncContact</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="password">PassWord</string>
+    <string name="search_hint">Search Contact</string>
+    <string name="working_sucessfully">WORKING...........SUCESSFULLY</string>
+    <string name="invalid_user">Invalid user.</string>
+
+</resources>
